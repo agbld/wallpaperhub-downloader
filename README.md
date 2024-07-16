@@ -22,3 +22,4 @@ After running the script, you will start downloading 20 random wallpapers by the
 ## TODO
 - [ ] Utilize multi-modal models (like CLIP) to create a themed album from downloaded wallpapers based on sentence prompts.
 - [ ] Automatically find the max_page for specific creator and limit.
+- [ ] Add filter for bad quality.
