@@ -1,0 +1,726 @@
+{
+    "entities": [
+        {
+            "entity": {
+                "id": "1219",
+                "title": "Halo Infinite",
+                "description": "A still from the Halo Infinite trailer from E3 2018",
+                "isFeatured": false,
+                "isNew": false,
+                "created": "2018-07-01T06:55:36+00:00",
+                "thumbnail": "https://cdn.wallpaperhub.app/cloudcache/8/a/d/e/c/e/8adeced1742269530c75fe90bd96631560be32de.png",
+                "downloads": "10,000+",
+                "source": "",
+                "creators": [
+                    {
+                        "entityId": "microsoft",
+                        "entityType": "Creator",
+                        "additionalProps": {
+                            "name": "Microsoft",
+                            "avatar": "http://michaelgillettonlinecontent.azurewebsites.net/media/1162/microsoft.png",
+                            "wallpapers": 4273
+                        },
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https://wallpaperhub.app/api/v1/creators/microsoft",
+                                "action": "GET"
+                            }
+                        ]
+                    }
+                ],
+                "label": "Official",
+                "tags": [
+                    "xbox",
+                    "halo",
+                    "background"
+                ],
+                "variations": [
+                    {
+                        "title": "Default",
+                        "thumbnail": "https://cdn.wallpaperhub.app/cloudcache/8/a/d/e/c/e/8adeced1742269530c75fe90bd96631560be32de.png",
+                        "resolutions": [
+                            {
+                                "width": 3840,
+                                "height": 1634,
+                                "ratioX": 1920,
+                                "ratioY": 817,
+                                "resolutionLabel": "Original",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/1/b/c/d/1/8/1bcd189b63e394c3b76c111f17a7a56afb3ab25a.png",
+                                "download": null
+                            },
+                            {
+                                "width": 3440,
+                                "height": 1440,
+                                "ratioX": 43,
+                                "ratioY": 18,
+                                "resolutionLabel": "Ultrawide",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/f/8/d/2/3/4/f8d234da3adbbfc1c2c174243e34a3461e5a37e7.png",
+                                "download": null
+                            },
+                            {
+                                "width": 2256,
+                                "height": 1504,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Laptop 3 13",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/3/f/9/8/8/a/3f988a822a3c82d29cfc8218bb2fcfa5421e7373.png",
+                                "download": null
+                            },
+                            {
+                                "width": 1920,
+                                "height": 1080,
+                                "ratioX": 16,
+                                "ratioY": 9,
+                                "resolutionLabel": "1080p",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/1/6/9/b/7/6/169b76cdaa048641e1ccf298012c3f0c83229bde.png",
+                                "download": null
+                            },
+                            {
+                                "width": 1800,
+                                "height": 1200,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Go",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/9/0/9/1/a/c/9091acda7931fc2c0fb4731ef0fda7d2cd3e2407.png",
+                                "download": null
+                            },
+                            {
+                                "width": 560,
+                                "height": 1218,
+                                "ratioX": 40,
+                                "ratioY": 87,
+                                "resolutionLabel": "Mobile (small)",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/7/e/8/4/4/3/7e84438b89224e38dc13ef7329b9f5178c095401.png",
+                                "download": null
+                            }
+                        ]
+                    }
+                ],
+                "collectionsWallpaperAppearsIn": [
+                    {
+                        "entityId": "1238",
+                        "entityType": "Collection",
+                        "additionalProps": {
+                            "name": "Xbox E3 2018 Collection",
+                            "wallpapers": 8
+                        },
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https://wallpaperhub.app/api/v1/collections/1238",
+                                "action": "GET"
+                            }
+                        ]
+                    }
+                ],
+                "lastUpdated": "2024-07-09T23:31:58.2929656Z"
+            },
+            "entityType": "Wallpaper",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://wallpaperhub.app/api/v1/wallpapers/1219",
+                    "action": "GET"
+                }
+            ]
+        },
+        {
+            "entity": {
+                "id": "1218",
+                "title": "Halo Infinite",
+                "description": "A still from the Halo Infinite trailer from E3 2018",
+                "isFeatured": false,
+                "isNew": false,
+                "created": "2018-07-01T06:54:43+00:00",
+                "thumbnail": "https://cdn.wallpaperhub.app/cloudcache/6/a/6/c/e/0/6a6ce00816850a4bf3c02d5f749843fa3dd4c6cb.png",
+                "downloads": "10,000+",
+                "source": "",
+                "creators": [
+                    {
+                        "entityId": "microsoft",
+                        "entityType": "Creator",
+                        "additionalProps": {
+                            "name": "Microsoft",
+                            "avatar": "http://michaelgillettonlinecontent.azurewebsites.net/media/1162/microsoft.png",
+                            "wallpapers": 4273
+                        },
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https://wallpaperhub.app/api/v1/creators/microsoft",
+                                "action": "GET"
+                            }
+                        ]
+                    }
+                ],
+                "label": "Official",
+                "tags": [
+                    "xbox",
+                    "halo",
+                    "background"
+                ],
+                "variations": [
+                    {
+                        "title": "Default",
+                        "thumbnail": "https://cdn.wallpaperhub.app/cloudcache/6/a/6/c/e/0/6a6ce00816850a4bf3c02d5f749843fa3dd4c6cb.png",
+                        "resolutions": [
+                            {
+                                "width": 3840,
+                                "height": 2160,
+                                "ratioX": 16,
+                                "ratioY": 9,
+                                "resolutionLabel": "Original",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/8/8/3/9/7/5/883975a869445c70686e616f52606039eb32c118.png",
+                                "download": null
+                            },
+                            {
+                                "width": 3440,
+                                "height": 1440,
+                                "ratioX": 43,
+                                "ratioY": 18,
+                                "resolutionLabel": "Ultrawide",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/a/d/b/b/1/4/adbb1489500669350f78a8d756f844dd87aaab80.png",
+                                "download": null
+                            },
+                            {
+                                "width": 3240,
+                                "height": 2160,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Book 2",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/3/b/3/b/5/b/3b3b5b8308b11258b44581929665e85ab931e934.png",
+                                "download": null
+                            },
+                            {
+                                "width": 2880,
+                                "height": 1920,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Pro X",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/5/5/9/3/5/c/55935cfc9e48858e5cb96adce9c198c17a11a182.png",
+                                "download": null
+                            },
+                            {
+                                "width": 2736,
+                                "height": 1824,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Pro 7",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/5/0/9/b/5/d/509b5df95ec0818c47c4a35e0cba28688f27cdfc.png",
+                                "download": null
+                            },
+                            {
+                                "width": 2496,
+                                "height": 1664,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Laptop 3 15",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/7/f/d/f/f/1/7fdff149b855120a5ba5a65153b60a26bd23e948.png",
+                                "download": null
+                            },
+                            {
+                                "width": 2256,
+                                "height": 1504,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Laptop 3 13",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/7/c/7/4/0/4/7c7404831a5fa46fcd270a2247e86d0ebd27ce95.png",
+                                "download": null
+                            },
+                            {
+                                "width": 1920,
+                                "height": 1080,
+                                "ratioX": 16,
+                                "ratioY": 9,
+                                "resolutionLabel": "1080p",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/a/f/9/b/4/f/af9b4f8f006f3284e984ff18ffa5583c879a1955.png",
+                                "download": null
+                            },
+                            {
+                                "width": 1800,
+                                "height": 1200,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Go",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/e/e/4/e/2/9/ee4e294b3681d6c38c779ae46d93dd21d3e9aa8b.png",
+                                "download": null
+                            },
+                            {
+                                "width": 560,
+                                "height": 1218,
+                                "ratioX": 40,
+                                "ratioY": 87,
+                                "resolutionLabel": "Mobile (small)",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/9/3/3/2/f/9/9332f9da3e7c4e52b52a41232bc7675211c78d14.png",
+                                "download": null
+                            }
+                        ]
+                    }
+                ],
+                "collectionsWallpaperAppearsIn": [
+                    {
+                        "entityId": "1238",
+                        "entityType": "Collection",
+                        "additionalProps": {
+                            "name": "Xbox E3 2018 Collection",
+                            "wallpapers": 8
+                        },
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https://wallpaperhub.app/api/v1/collections/1238",
+                                "action": "GET"
+                            }
+                        ]
+                    }
+                ],
+                "lastUpdated": "2024-07-09T23:31:58.8064277Z"
+            },
+            "entityType": "Wallpaper",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://wallpaperhub.app/api/v1/wallpapers/1218",
+                    "action": "GET"
+                }
+            ]
+        },
+        {
+            "entity": {
+                "id": "1217",
+                "title": "Halo Infinite",
+                "description": "A still from the Halo Infinite trailer from E3 2018",
+                "isFeatured": false,
+                "isNew": false,
+                "created": "2018-07-01T06:53:12+00:00",
+                "thumbnail": "https://cdn.wallpaperhub.app/cloudcache/0/8/d/1/7/7/08d177e28de45a60a12b69e8315bdd74423cc593.png",
+                "downloads": "10,000+",
+                "source": "",
+                "creators": [
+                    {
+                        "entityId": "microsoft",
+                        "entityType": "Creator",
+                        "additionalProps": {
+                            "name": "Microsoft",
+                            "avatar": "http://michaelgillettonlinecontent.azurewebsites.net/media/1162/microsoft.png",
+                            "wallpapers": 4273
+                        },
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https://wallpaperhub.app/api/v1/creators/microsoft",
+                                "action": "GET"
+                            }
+                        ]
+                    }
+                ],
+                "label": "Official",
+                "tags": [
+                    "xbox",
+                    "halo",
+                    "background"
+                ],
+                "variations": [
+                    {
+                        "title": "Default",
+                        "thumbnail": "https://cdn.wallpaperhub.app/cloudcache/0/8/d/1/7/7/08d177e28de45a60a12b69e8315bdd74423cc593.png",
+                        "resolutions": [
+                            {
+                                "width": 3840,
+                                "height": 2160,
+                                "ratioX": 16,
+                                "ratioY": 9,
+                                "resolutionLabel": "Original",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/a/c/c/a/c/4/accac4a22e8c6e79e7c3bf5afbf62f0fa6415028.png",
+                                "download": null
+                            },
+                            {
+                                "width": 3440,
+                                "height": 1440,
+                                "ratioX": 43,
+                                "ratioY": 18,
+                                "resolutionLabel": "Ultrawide",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/c/4/2/e/8/8/c42e883c738b70f15a66440a95cd54563253e32b.png",
+                                "download": null
+                            },
+                            {
+                                "width": 3240,
+                                "height": 2160,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Book 2",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/7/5/f/6/f/b/75f6fbe5194511a948c6477e254bb38deae18c4c.png",
+                                "download": null
+                            },
+                            {
+                                "width": 2880,
+                                "height": 1920,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Pro X",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/3/5/4/c/7/0/354c703b67f04518e6b1535c2ab044b86dbfe56d.png",
+                                "download": null
+                            },
+                            {
+                                "width": 2736,
+                                "height": 1824,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Pro 7",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/b/c/2/d/2/9/bc2d29edeb7303a83b88f9d94639879b27275e87.png",
+                                "download": null
+                            },
+                            {
+                                "width": 2496,
+                                "height": 1664,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Laptop 3 15",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/7/7/b/b/9/e/77bb9e58ca3afc71e569cd4654e7e3b04a716418.png",
+                                "download": null
+                            },
+                            {
+                                "width": 2256,
+                                "height": 1504,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Laptop 3 13",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/1/b/f/8/8/e/1bf88edf4ef2b3d4158ff13ba4c40883b13eedbf.png",
+                                "download": null
+                            },
+                            {
+                                "width": 1920,
+                                "height": 1080,
+                                "ratioX": 16,
+                                "ratioY": 9,
+                                "resolutionLabel": "1080p",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/1/1/e/5/d/6/11e5d6478ccd62d924246536a600ca9de909e352.png",
+                                "download": null
+                            },
+                            {
+                                "width": 1800,
+                                "height": 1200,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Go",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/3/a/0/9/c/2/3a09c23a8c9fde8af94956a1b79c1402c0b28b0d.png",
+                                "download": null
+                            },
+                            {
+                                "width": 560,
+                                "height": 1218,
+                                "ratioX": 40,
+                                "ratioY": 87,
+                                "resolutionLabel": "Mobile (small)",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/9/c/c/9/2/e/9cc92ed858b7657831c9522290cee0ad1fcb2b11.png",
+                                "download": null
+                            }
+                        ]
+                    }
+                ],
+                "collectionsWallpaperAppearsIn": [
+                    {
+                        "entityId": "1238",
+                        "entityType": "Collection",
+                        "additionalProps": {
+                            "name": "Xbox E3 2018 Collection",
+                            "wallpapers": 8
+                        },
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https://wallpaperhub.app/api/v1/collections/1238",
+                                "action": "GET"
+                            }
+                        ]
+                    }
+                ],
+                "lastUpdated": "2024-07-09T20:57:12.9475247Z"
+            },
+            "entityType": "Wallpaper",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://wallpaperhub.app/api/v1/wallpapers/1217",
+                    "action": "GET"
+                }
+            ]
+        },
+        {
+            "entity": {
+                "id": "1216",
+                "title": "Halo Infinite",
+                "description": "A still from the Halo Infinite trailer from E3 2018",
+                "isFeatured": false,
+                "isNew": false,
+                "created": "2018-07-01T06:51:59+00:00",
+                "thumbnail": "https://cdn.wallpaperhub.app/cloudcache/f/7/5/2/a/4/f752a46636ca1a2039671e83db91386d48b7b962.jpg",
+                "downloads": "10,000+",
+                "source": "",
+                "creators": [
+                    {
+                        "entityId": "microsoft",
+                        "entityType": "Creator",
+                        "additionalProps": {
+                            "name": "Microsoft",
+                            "avatar": "http://michaelgillettonlinecontent.azurewebsites.net/media/1162/microsoft.png",
+                            "wallpapers": 4273
+                        },
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https://wallpaperhub.app/api/v1/creators/microsoft",
+                                "action": "GET"
+                            }
+                        ]
+                    }
+                ],
+                "label": "Official",
+                "tags": [
+                    "xbox",
+                    "halo",
+                    "background"
+                ],
+                "variations": [
+                    {
+                        "title": "Default",
+                        "thumbnail": "https://cdn.wallpaperhub.app/cloudcache/f/7/5/2/a/4/f752a46636ca1a2039671e83db91386d48b7b962.jpg",
+                        "resolutions": [
+                            {
+                                "width": 2160,
+                                "height": 920,
+                                "ratioX": 54,
+                                "ratioY": 23,
+                                "resolutionLabel": "Original",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/2/e/5/b/4/9/2e5b49ebba4b5088c13b63ffaa20993c37f7c364.jpg",
+                                "download": null
+                            }
+                        ]
+                    }
+                ],
+                "collectionsWallpaperAppearsIn": [
+                    {
+                        "entityId": "1238",
+                        "entityType": "Collection",
+                        "additionalProps": {
+                            "name": "Xbox E3 2018 Collection",
+                            "wallpapers": 8
+                        },
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https://wallpaperhub.app/api/v1/collections/1238",
+                                "action": "GET"
+                            }
+                        ]
+                    }
+                ],
+                "lastUpdated": "2024-07-09T20:56:57.2250529Z"
+            },
+            "entityType": "Wallpaper",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://wallpaperhub.app/api/v1/wallpapers/1216",
+                    "action": "GET"
+                }
+            ]
+        },
+        {
+            "entity": {
+                "id": "1215",
+                "title": "Halo Infinite",
+                "description": "A still from the Halo Infinite trailer from E3 2018",
+                "isFeatured": false,
+                "isNew": false,
+                "created": "2018-07-01T06:51:12+00:00",
+                "thumbnail": "https://cdn.wallpaperhub.app/cloudcache/f/c/9/a/b/a/fc9abaac36363d6daa67060b784b2f25c99007d2.png",
+                "downloads": "20,000+",
+                "source": "",
+                "creators": [
+                    {
+                        "entityId": "microsoft",
+                        "entityType": "Creator",
+                        "additionalProps": {
+                            "name": "Microsoft",
+                            "avatar": "http://michaelgillettonlinecontent.azurewebsites.net/media/1162/microsoft.png",
+                            "wallpapers": 4273
+                        },
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https://wallpaperhub.app/api/v1/creators/microsoft",
+                                "action": "GET"
+                            }
+                        ]
+                    }
+                ],
+                "label": "Official",
+                "tags": [
+                    "xbox",
+                    "halo",
+                    "background"
+                ],
+                "variations": [
+                    {
+                        "title": "Default",
+                        "thumbnail": "https://cdn.wallpaperhub.app/cloudcache/f/c/9/a/b/a/fc9abaac36363d6daa67060b784b2f25c99007d2.png",
+                        "resolutions": [
+                            {
+                                "width": 3840,
+                                "height": 2160,
+                                "ratioX": 16,
+                                "ratioY": 9,
+                                "resolutionLabel": "Original",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/e/c/1/6/2/a/ec162a1f7b668af38c78bfa1f1a9c922562c2d49.png",
+                                "download": null
+                            },
+                            {
+                                "width": 3440,
+                                "height": 1440,
+                                "ratioX": 43,
+                                "ratioY": 18,
+                                "resolutionLabel": "Ultrawide",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/c/f/8/8/2/c/cf882c2ebc2dc6b14a7d3c190df2b4e907487b44.png",
+                                "download": null
+                            },
+                            {
+                                "width": 3240,
+                                "height": 2160,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Book 2",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/d/3/c/2/0/6/d3c2064d67c757312fff2846c0c8b03ec8999650.png",
+                                "download": null
+                            },
+                            {
+                                "width": 2880,
+                                "height": 1920,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Pro X",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/5/8/a/2/f/7/58a2f7b382dad5a18cc586ea9bf332a8b4d86ad0.png",
+                                "download": null
+                            },
+                            {
+                                "width": 2736,
+                                "height": 1824,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Pro 7",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/a/3/3/9/d/a/a339dadfb1ec419f6d0dcc72b7a3528dee52b502.png",
+                                "download": null
+                            },
+                            {
+                                "width": 2496,
+                                "height": 1664,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Laptop 3 15",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/7/6/8/8/7/9/76887913b8056c6dfa07ac93fd4cd4e0bde45351.png",
+                                "download": null
+                            },
+                            {
+                                "width": 2256,
+                                "height": 1504,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Laptop 3 13",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/e/c/f/3/7/d/ecf37d36c64be51be7606a6f1106d4754bda57c6.png",
+                                "download": null
+                            },
+                            {
+                                "width": 1920,
+                                "height": 1080,
+                                "ratioX": 16,
+                                "ratioY": 9,
+                                "resolutionLabel": "1080p",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/5/7/e/7/e/0/57e7e0617748210e52394eb744d971c2c1b2be95.png",
+                                "download": null
+                            },
+                            {
+                                "width": 1800,
+                                "height": 1200,
+                                "ratioX": 3,
+                                "ratioY": 2,
+                                "resolutionLabel": "Surface Go",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/0/8/b/8/0/0/08b800e923763987210a2a9e028031409c57ec6d.png",
+                                "download": null
+                            },
+                            {
+                                "width": 560,
+                                "height": 1218,
+                                "ratioX": 40,
+                                "ratioY": 87,
+                                "resolutionLabel": "Mobile (small)",
+                                "url": "https://cdn.wallpaperhub.app/cloudcache/3/5/0/5/d/7/3505d77b6fa222be16cc133606a137ea63fa50e9.png",
+                                "download": null
+                            }
+                        ]
+                    }
+                ],
+                "collectionsWallpaperAppearsIn": [
+                    {
+                        "entityId": "1238",
+                        "entityType": "Collection",
+                        "additionalProps": {
+                            "name": "Xbox E3 2018 Collection",
+                            "wallpapers": 8
+                        },
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https://wallpaperhub.app/api/v1/collections/1238",
+                                "action": "GET"
+                            }
+                        ]
+                    }
+                ],
+                "lastUpdated": "2024-07-09T20:56:43.3520612Z"
+            },
+            "entityType": "Wallpaper",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://wallpaperhub.app/api/v1/wallpapers/1215",
+                    "action": "GET"
+                }
+            ]
+        }
+    ],
+    "entityType": "WallpaperList",
+    "totalEntities": 4285,
+    "limit": 20,
+    "page": 215,
+    "totalPages": 215,
+    "links": [
+        {
+            "rel": "self",
+            "href": "https://wallpaperhub.app/api/v1/creators/microsoft/wallpapers/?limit=20&page=215",
+            "action": "GET"
+        },
+        {
+            "rel": "self.next",
+            "href": null,
+            "action": "GET"
+        },
+        {
+            "rel": "self.prev",
+            "href": "https://wallpaperhub.app/api/v1/creators/microsoft/wallpapers/?limit=20&page=214",
+            "action": "GET"
+        },
+        {
+            "rel": "self.first",
+            "href": "https://wallpaperhub.app/api/v1/creators/microsoft/wallpapers/?limit=20&page=1",
+            "action": "GET"
+        },
+        {
+            "rel": "self.last",
+            "href": "https://wallpaperhub.app/api/v1/creators/microsoft/wallpapers/?limit=20&page=215",
+            "action": "GET"
+        }
+    ],
+    "status": 200,
+    "responseGenerated": "2024-07-16T18:54:51.0123649+00:00"
+}
