@@ -6,5 +6,19 @@ A simple python project to download a batch of wallpapers from [wallpaperhub.app
 - Specify the creator of the wallpaper
 - Wallpaper title as filename
 
+## Usage
+1. Clone the repository
+2. Install the required packages
+```bash
+pip install requests
+```
+3. Run the script
+```bash
+python main.py
+```
+
+After running the script, you will start downloading 20 random wallpapers by the creator Microsoft from wallpaperhub.app. The wallpapers will be saved in the `downloads` folder in the root directory of the project.
+
 ## TODO
 - [ ] Utilize multi-modal models (like CLIP) to create a themed album from downloaded wallpapers based on sentence prompts.
+- [ ] Automatically find the max_page for specific creator and limit.
