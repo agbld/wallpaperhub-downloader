@@ -17,7 +17,7 @@ pip install requests
 python main.py
 ```
 
-After running the script, you will start downloading 20 random wallpapers by the creator Microsoft from wallpaperhub.app. The wallpapers will be saved in the `downloads` folder in the root directory of the project.
+After running the script, you will start downloading 20 random wallpapers by the creator Microsoft from wallpaperhub.app. The wallpapers will be saved in the `./downloads/microsoft/` folder in the root directory of the project.
 
 ## TODO
 - [ ] Add a wallpaper_info.csv file to handle metadata for all downloaded wallpapers (e.g., file_path, creator, title, description, resolution, downloads, etc.).

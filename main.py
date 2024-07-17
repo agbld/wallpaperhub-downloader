@@ -88,9 +88,16 @@ wallpaper_urls, wallpaper_titles = get_wallpaper_url_batch(api_url=api_url,
 print(f"Retrieved {len(wallpaper_urls)} wallpaper URLs")
 
 # Create the 'downloads' folder if it doesn't exist
-if not os.path.exists('./downloads'):
+if not os.path.exists('./wallpapers'):
     # Create the 'downloads' folder
-    os.makedirs('./downloads')
+    os.makedirs('./wallpapers')
+
+# Create the creator folder if it doesn't exist
+if not os.path.exists(f'./wallpapers/{creator}'):
+    # Create the creator folder
+    os.makedirs(f'./wallpapers/{creator}')
+
+folder_path = f'./wallpapers/{creator}'
 
 # Download wallpapers
 print("Downloading wallpapers...")
@@ -98,7 +105,8 @@ for i in range(len(wallpaper_urls)):
     wallpaper_title = wallpaper_titles[i].replace(' ', '_')
     wallpaper_title = ''.join(c for c in wallpaper_title if c.isalnum() or c in ['_', '-'])
     wallpaper_title = wallpaper_title[:255]  # Limit the title to 255 characters
-    download_wallpaper(wallpaper_urls[i], f"./downloads/{wallpaper_title}.jpg")
-    print(f"Downloaded wallpaper {i+1} of {len(wallpaper_urls)}")
+    file_path = f"{folder_path}/{wallpaper_title}.jpg"
+    download_wallpaper(wallpaper_urls[i], file_path)
+    print(f"Downloaded wallpaper: {wallpaper_title} ({i+1} of {len(wallpaper_urls)})")
 
 # %%
