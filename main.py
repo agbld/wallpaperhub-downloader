@@ -3,7 +3,7 @@ import requests
 import random
 import os
 
-def get_wallpaper_url_batch(api_url: str, limit: int = 20, max_pages: int = 1) -> list:
+def get_wallpaper_url_batch(creator: str, limit: int = 20, max_pages: int = 1) -> list:
     """
     Get a batch of wallpaper URLs from the WallpaperHub API.
 
@@ -23,8 +23,23 @@ def get_wallpaper_url_batch(api_url: str, limit: int = 20, max_pages: int = 1) -
 
     """
 
-    # Define the URL of the API
-    url = "https://wallpaperhub.app/api/v1/creators/microsoft/wallpapers/"
+    # Check the total number of wallpapers available from the creator
+    api_url = f'https://wallpaperhub.app/api/v1/creators/{creator}/'
+    response = requests.get(api_url)
+    
+    if response.status_code == 200:
+        data = response.json()
+        total_num_wallpapers = data['entity']['wallpapers']
+    else:
+        print(f"Failed to find the creator. Status code: {response.status_code}")
+        return [], []
+    
+    if max_pages > total_num_wallpapers // limit:
+        max_pages = total_num_wallpapers // limit + 1
+
+    # Set the API URL
+    api_url = f'https://wallpaperhub.app/api/v1/creators/{creator}/wallpapers/'
+
     # Set the parameters for the request
     params = {
         'limit': limit,
@@ -32,7 +47,7 @@ def get_wallpaper_url_batch(api_url: str, limit: int = 20, max_pages: int = 1) -
     }
 
     # Send a GET request
-    response = requests.get(url, params=params)
+    response = requests.get(api_url, params=params)
     
     # Check if the request was successful
     if response.status_code == 200:
@@ -80,11 +95,11 @@ def download_wallpaper(url: str, path: str):
     
 # Get a batch of wallpaper URLs
 print("Getting wallpaper URLs...")
-creator = 'microsoft'
-api_url = f'https://wallpaperhub.app/api/v1/creators/{creator}/wallpapers/'
-wallpaper_urls, wallpaper_titles = get_wallpaper_url_batch(api_url=api_url,
+creator = 'scottlovegrove'
+wallpaper_urls, wallpaper_titles = get_wallpaper_url_batch(creator,
                                          limit=20, 
-                                         max_pages=215)
+                                         max_pages=500)
+
 print(f"Retrieved {len(wallpaper_urls)} wallpaper URLs")
 
 # Create the 'downloads' folder if it doesn't exist
